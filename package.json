@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-git",
+  "version": "1.0.0",
+  "description": "No code No pain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahtiyar0/hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahtiyar0/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/bahtiyar0/hexlet-git#readme"
+}
